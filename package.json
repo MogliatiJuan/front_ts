@@ -1,0 +1,13 @@
+{
+  "name": "front_ts",
+  "version": "1.0.0",
+  "description": "Franco Di Leo's Frontend Course",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {}
+}
